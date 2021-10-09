@@ -1,0 +1,1613 @@
+{
+  "status": "SUCCESS",
+  "data": {
+    "premiumRequest": {
+      "_id": "MGGPAUFPRJ7",
+      "uniqueId": "c548b309-082e-4b96-9828-500d58757864",
+      "profileId": "71f10b373ecea93566d395b005f562de",
+      "quoteId": "8067f11ce7e52ca1a328a0dc7d713eaf",
+      "userMobile": "",
+      "timestamp": "2021-09-29T05:07:19.548+0000",
+      "expiryTimestamp": "2021-10-04T18:29:59.999+0000",
+      "expiryDt": "05/10/2021",
+      "startDt": "06/10/2021",
+      "provider": [
+        null
+      ],
+      "customerName": "test",
+      "stateCode": "MH",
+      "initialReqFlag": true,
+      "policyType": "comprehensive",
+      "vertical": "CV",
+      "motorPremiumRequest": {
+        "rtoId": "MH01",
+        "year": "2019",
+        "purchasePolicy": false,
+        "prevClaim": false,
+        "registrationDate": "06/12/2020",
+        "idv": 1.0,
+        "prevNCB": 20,
+        "businessType": 0,
+        "ageOfVehicle": 0,
+        "applicableNCB": 25,
+        "make": "MARUTI",
+        "model": "SWIFT DZIRE",
+        "makeModelId": "34588",
+        "fuel": "Petrol",
+        "expiryFlag": false,
+        "unknownNCBFlag": false,
+        "eligibleForNCB": true,
+        "expiryInTwoDays": false,
+        "rtoDesp": "Mumbai Central- Location- Tardeo",
+        "horseIdv": 0.0,
+        "cvVehicleClass": "PCV",
+        "withTrailer": false,
+        "trailerIDV": 0.0,
+        "insTrailerIDV": 0,
+        "cvVehicleType": "",
+        "cvWheels": "",
+        "isGoodCustomerDiscountSelected": false,
+        "isRegisteredOwnerDifferent": false,
+        "insurerData": {
+          "ICICILOMBARD": {
+            "insurerVehicleId": "205057"
+          }
+        },
+        "secureTowing": false,
+        "tyreSecure": false,
+        "emergencyTransportAndHotelExpense": false,
+        "repairOfGlassRubberPlasticParts": false,
+        "consumableCover": false,
+        "fullInvoiceCover": false,
+        "keyReplacement": false,
+        "fibretank": false,
+        "geographicExt": false,
+        "dailyCashAllowance": false,
+        "personalBaggage": false,
+        "drivingTuitionCoverage": false,
+        "accidentalHospitalization": false,
+        "hydrostaticLockCover": false,
+        "previousInsurer": "BAJAJ",
+        "previousPolicyType": "COMPREHENSIVE",
+        "previousPolicyDidntHadCNG": false,
+        "previousPolicyDidntHadZeroDep": false,
+        "carrierType": "PUBLIC",
+        "carryingCapacity": "5",
+        "cubicCapacity": "1198",
+        "comprehensive": {
+          "paOwnerDriver": 0,
+          "zeroDep": false,
+          "rsa": false,
+          "engineProtect": false,
+          "ncbProtect": false,
+          "antiTheft": false,
+          "secureTowing": false,
+          "tyreSecure": false,
+          "emergencyTransportAndHotelExpense": false,
+          "repairOfGlassRubberPlasticParts": false,
+          "consumableCover": false,
+          "fullInvoiceCover": false,
+          "keyReplacement": false,
+          "fibretank": false,
+          "geographicExt": false,
+          "dailyCashAllowance": false,
+          "personalBaggage": false,
+          "drivingTuitionCoverage": false,
+          "accidentalHospitalization": false,
+          "hydrostaticLockCover": false,
+          "imt23": false,
+          "tppd": false
+        },
+        "tp": {
+          "paOwnerDriver": 0,
+          "zeroDep": false,
+          "rsa": false,
+          "engineProtect": false,
+          "ncbProtect": false,
+          "antiTheft": false,
+          "secureTowing": false,
+          "tyreSecure": false,
+          "emergencyTransportAndHotelExpense": false,
+          "repairOfGlassRubberPlasticParts": false,
+          "consumableCover": false,
+          "fullInvoiceCover": false,
+          "keyReplacement": false,
+          "fibretank": false,
+          "geographicExt": false,
+          "dailyCashAllowance": false,
+          "personalBaggage": false,
+          "drivingTuitionCoverage": false,
+          "accidentalHospitalization": false,
+          "hydrostaticLockCover": false,
+          "imt23": false,
+          "tppd": false
+        },
+        "od": {
+          "paOwnerDriver": 0,
+          "zeroDep": false,
+          "rsa": false,
+          "engineProtect": false,
+          "ncbProtect": false,
+          "antiTheft": false,
+          "secureTowing": false,
+          "tyreSecure": false,
+          "emergencyTransportAndHotelExpense": false,
+          "repairOfGlassRubberPlasticParts": false,
+          "consumableCover": false,
+          "fullInvoiceCover": false,
+          "keyReplacement": false,
+          "fibretank": false,
+          "geographicExt": false,
+          "dailyCashAllowance": false,
+          "personalBaggage": false,
+          "drivingTuitionCoverage": false,
+          "accidentalHospitalization": false,
+          "hydrostaticLockCover": false,
+          "imt23": false,
+          "tppd": false
+        },
+        "isPreviousPolicyFromSameBroker": false,
+        "isExpiryDateSet": false,
+        "vehicleType": "Taxi",
+        "cvTypeId": 30,
+        "subtypePayout": "TAXI",
+        "bodyType": "Self Drive"
+      },
+      "membersCovered": 0,
+      "eldestMemberAge": 0,
+      "resultPageVisited": true,
+      "createdByCustomer": false
+    },
+    "pendingKeyList": [],
+    "premiumResults": [
+      {
+        "_id": "e7f58107-5a15-4c36-977d-6155eb53f95b",
+        "uniqueId": "c548b309-082e-4b96-9828-500d58757864",
+        "requestId": "MGGPAUFPRJ7",
+        "key": "NINA",
+        "insurer": "NINA",
+        "quoteId": "8067f11ce7e52ca1a328a0dc7d713eaf",
+        "timestamp": "2021-09-29T05:07:19.889+0000",
+        "validTillTimestamp": "2021-10-04T18:29:59.999+0000",
+        "status": "INSURER_DISABLED",
+        "policyType": "comprehensive",
+        "vertical": "CV",
+        "shortListId": "93ed61a81615ccec807cf56069427571",
+        "motorPremiumResult": {
+          "insurerProvider": "NINA",
+          "insurerName": "NINA",
+          "isInitial": false,
+          "status": "INSURER_DISABLED",
+          "errorMsg": "Enabled",
+          "validTillTimestamp": "2021-10-04T18:29:59.999+0000",
+          "manualQuote": false,
+          "cdEnabled": false,
+          "elapsedTime": 50,
+          "cashlessGaragesStatus": 0,
+          "insTrailerIDV": 0,
+          "premiumYear": "1",
+          "c": false,
+          "rc": false,
+          "posp": false,
+          "shortListId": "93ed61a81615ccec807cf56069427571",
+          "uid": "c548b309-082e-4b96-9828-500d58757864",
+          "insurerData": {
+            "royalSundaramQuoteId": null,
+            "universalSompoProposalQuotationID": null,
+            "royalSundaramVersionNo": null
+          },
+          "featureTags": [],
+          "isInspectionIntegrated": false,
+          "renewal": false,
+          "initial": false,
+          "offline": false,
+          "userSetPrevIdv": false
+        },
+        "showPospTag": false,
+        "renewals": false
+      },
+      {
+        "_id": "02bd8760-b78d-4231-b5c2-5522acff0eaa",
+        "uniqueId": "c548b309-082e-4b96-9828-500d58757864",
+        "requestId": "MGGPAUFPRJ7",
+        "key": "RELI",
+        "insurer": "RELI",
+        "quoteId": "8067f11ce7e52ca1a328a0dc7d713eaf",
+        "timestamp": "2021-09-29T05:07:20.156+0000",
+        "validTillTimestamp": "2021-10-04T18:29:59.999+0000",
+        "status": "IVM_NOT_FOUND",
+        "policyType": "comprehensive",
+        "vertical": "CV",
+        "shortListId": "2bca3fedcfa7282d71c29a663c14bfdb",
+        "motorPremiumResult": {
+          "insurerProvider": "RELI",
+          "insurerName": "RELI",
+          "isInitial": false,
+          "status": "IVM_NOT_FOUND",
+          "errorMsg": "Couldn't fetch IVM for tmm_id:34588, insurer:RELI_PUB, other_params:{'idv': 1.0, 'mfg_year': 2019, 'vehicle_type': 'PCV', 'policy_type': 'comprehensive', 'gvw': 0, 'cc': 1198, 'cv_type': '30', 'seating_capacity': 5, 'fuel_type': 'PETROL', 'carrier_type': 'PUBLIC'}",
+          "validTillTimestamp": "2021-10-04T18:29:59.999+0000",
+          "manualQuote": false,
+          "cdEnabled": false,
+          "elapsedTime": 305,
+          "cashlessGaragesStatus": 1,
+          "insTrailerIDV": 0,
+          "premiumYear": "1",
+          "c": false,
+          "rc": false,
+          "posp": false,
+          "shortListId": "2bca3fedcfa7282d71c29a663c14bfdb",
+          "uid": "c548b309-082e-4b96-9828-500d58757864",
+          "insurerData": {
+            "royalSundaramQuoteId": null,
+            "universalSompoProposalQuotationID": null,
+            "royalSundaramVersionNo": null
+          },
+          "featureTags": [],
+          "isInspectionIntegrated": false,
+          "renewal": false,
+          "initial": false,
+          "offline": false,
+          "userSetPrevIdv": false
+        },
+        "showPospTag": false,
+        "renewals": false
+      },
+      {
+        "_id": "6bd8c75d-5a74-402d-b86e-7b435bd75bdb",
+        "uniqueId": "c548b309-082e-4b96-9828-500d58757864",
+        "requestId": "MGGPAUFPRJ7",
+        "key": "ICICILOMBARD",
+        "insurer": "ICICILOMBARD",
+        "quoteId": "8067f11ce7e52ca1a328a0dc7d713eaf",
+        "timestamp": "2021-09-29T05:07:20.743+0000",
+        "validTillTimestamp": "2021-10-04T18:29:59.999+0000",
+        "status": "FAILURE",
+        "policyType": "comprehensive",
+        "vertical": "CV",
+        "shortListId": "266b49c99dc7172bb094ce272759377a",
+        "motorPremiumResult": {
+          "insurerProvider": "ICICILOMBARD",
+          "insurerName": "ICICI Lombard",
+          "insurerLogo": "images/icici.png",
+          "isInitial": false,
+          "status": "FAILURE",
+          "errorMsg": "Premium is disabled for this insurer.",
+          "seatingCapacity": 5,
+          "carryingCapacity": 4,
+          "grossWeight": "0",
+          "validTillTimestamp": "2021-10-04T18:29:59.999+0000",
+          "manualQuote": false,
+          "cdEnabled": false,
+          "elapsedTime": 877,
+          "cashlessGaragesStatus": 2,
+          "insTrailerIDV": 0,
+          "premiumYear": "1",
+          "c": false,
+          "rc": false,
+          "posp": false,
+          "shortListId": "266b49c99dc7172bb094ce272759377a",
+          "uid": "c548b309-082e-4b96-9828-500d58757864",
+          "insurerData": {
+            "royalSundaramQuoteId": null,
+            "universalSompoProposalQuotationID": null,
+            "insurerVehicleId": "205057",
+            "royalSundaramVersionNo": null
+          },
+          "featureTags": [],
+          "isInspectionIntegrated": false,
+          "renewal": false,
+          "initial": false,
+          "offline": false,
+          "userSetPrevIdv": false
+        },
+        "showPospTag": false,
+        "renewals": false
+      },
+      {
+        "_id": "826537e7-b7fa-4f34-9acf-6184cfedb2c8",
+        "uniqueId": "c548b309-082e-4b96-9828-500d58757864",
+        "requestId": "MGGPAUFPRJ7",
+        "key": "HDFC",
+        "insurer": "HDFC",
+        "quoteId": "8067f11ce7e52ca1a328a0dc7d713eaf",
+        "timestamp": "2021-09-29T05:07:21.404+0000",
+        "validTillTimestamp": "2021-10-04T18:29:59.999+0000",
+        "status": "SUCCESS",
+        "finalPremium": "28656",
+        "packagePremium": "24285",
+        "tax": "4371",
+        "policyType": "comprehensive",
+        "vertical": "CV",
+        "shortListId": "46ecfb7df0a39efa65391939b960d2ed",
+        "motorPremiumResult": {
+          "insurerProvider": "HDFC",
+          "insurerName": "HDFC ERGO",
+          "insurerLogo": "images/HDFC.png",
+          "isInitial": false,
+          "ownDamageMap": {
+            "Basic Premium": "17287"
+          },
+          "discountsMap": {
+            "NCB Discount to OD Premium": "-4322"
+          },
+          "liabilityPremiumMap": {
+            "Basic Third Party Liability": "11320"
+          },
+          "totalOwnDamagePremium": "17287.0",
+          "totalLiabilityPremium": "11320.0",
+          "packagePremium": "24285",
+          "serviceTax": "4371",
+          "finalPremium": "28656",
+          "status": "SUCCESS",
+          "idv": 417800,
+          "minIdv": 417800,
+          "maxIdv": 679506,
+          "hdfcExShowroomPrice": 491530,
+          "seatingCapacity": 5,
+          "carryingCapacity": 4,
+          "grossWeight": "1010",
+          "newNCB": 25,
+          "validTillTimestamp": "2021-10-04T18:29:59.999+0000",
+          "supportedAddOn": [],
+          "manualQuote": false,
+          "cdEnabled": false,
+          "elapsedTime": 1509,
+          "cashlessGaragesStatus": 1,
+          "insTrailerIDV": 0,
+          "premiumYear": "1",
+          "c": false,
+          "rc": false,
+          "posp": false,
+          "shortListId": "46ecfb7df0a39efa65391939b960d2ed",
+          "uid": "c548b309-082e-4b96-9828-500d58757864",
+          "insurerData": {
+            "royalSundaramQuoteId": null,
+            "universalSompoProposalQuotationID": null,
+            "royalSundaramVersionNo": null
+          },
+          "featureTags": [],
+          "isInspectionIntegrated": false,
+          "renewal": false,
+          "initial": false,
+          "offline": true,
+          "userSetPrevIdv": false
+        },
+        "showPospTag": false,
+        "renewals": false
+      },
+      {
+        "_id": "c74338c6-4e3d-4f62-aac2-4b976bd4cf0c",
+        "uniqueId": "c548b309-082e-4b96-9828-500d58757864",
+        "requestId": "MGGPAUFPRJ7",
+        "key": "DIGIT",
+        "insurer": "DIGIT",
+        "quoteId": "8067f11ce7e52ca1a328a0dc7d713eaf",
+        "timestamp": "2021-09-29T05:07:22.897+0000",
+        "validTillTimestamp": "2021-10-04T18:29:59.999+0000",
+        "status": "SUCCESS",
+        "finalPremium": "16520",
+        "packagePremium": "14000",
+        "tax": "2520",
+        "policyType": "comprehensive",
+        "vertical": "CV",
+        "shortListId": "bb5321b345bf49794202680802a03771",
+        "motorPremiumResult": {
+          "insurerProvider": "DIGIT",
+          "insurerName": "Digit",
+          "insurerLogo": "images/digit.png",
+          "isInitial": false,
+          "ownDamageMap": {
+            "Basic Premium": "14292",
+            "Insurer Discount": "-10719"
+          },
+          "discountsMap": {},
+          "liabilityPremiumMap": {
+            "Basic Third Party Liability": "11320"
+          },
+          "totalOwnDamagePremium": "0",
+          "addOnPremiumMap": {},
+          "totalLiabilityPremium": "0",
+          "packagePremium": "14000",
+          "serviceTax": "2520",
+          "finalPremium": "16520",
+          "status": "SUCCESS",
+          "idv": 518117,
+          "minIdv": 375015,
+          "maxIdv": 679506,
+          "seatingCapacity": 5,
+          "carryingCapacity": 4,
+          "grossWeight": "1340",
+          "newNCB": 25,
+          "validTillTimestamp": "2021-10-04T18:29:59.999+0000",
+          "insurerTariffDiscount": "80",
+          "insurerAppliedDiscount": "80",
+          "supportedAddOn": [],
+          "manualQuote": false,
+          "cdEnabled": false,
+          "elapsedTime": 3015,
+          "cashlessGaragesStatus": 1,
+          "insTrailerIDV": 0,
+          "premiumYear": "1",
+          "c": false,
+          "rc": false,
+          "posp": false,
+          "shortListId": "bb5321b345bf49794202680802a03771",
+          "uid": "c548b309-082e-4b96-9828-500d58757864",
+          "insurerData": {
+            "noOfPassenger": "1",
+            "showBanner": false,
+            "bannerMessage": "",
+            "enquiryId": "973fb782-5104-427e-98ac-2d1352d42d88",
+            "deviation": true,
+            "deviationAmount": 5,
+            "defaulGrossVehicleWeight": "",
+            "grossVehicleWeight": "",
+            "minGrossVehicleWeight": "",
+            "maxGrossVehicleWeight": "",
+            "isBreakin": "",
+            "listOfApplicableCoverages": [
+              {
+                "coverType": "THIRD_PARTY",
+                "coverAvailability": "MANDATORY",
+                "coverCode": "THIRD_PARTY",
+                "name": "Motor Third Party Liability Insurance",
+                "selection": true,
+                "value": {
+                  "insuredValue": 0
+                },
+                "subCovers": [
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "MANDATORY",
+                    "name": "Property Damage",
+                    "componentNumber": "10061",
+                    "selection": true,
+                    "value": {
+                      "valueType": "SUM_INSURED",
+                      "insuredValue": 750000,
+                      "validValues": [
+                        6000,
+                        750000
+                      ]
+                    },
+                    "subCovers": [],
+                    "netPremium": "INR 11320.00"
+                  },
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "NOT_AVAILABLE",
+                    "name": "Is Geographical Extension taken?",
+                    "componentNumber": "48764",
+                    "selection": false,
+                    "value": {
+                      "insuredValue": 0
+                    },
+                    "subCovers": [],
+                    "netPremium": "INR 0.00"
+                  },
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "NOT_AVAILABLE",
+                    "coverCode": "ACCESSORIES",
+                    "name": "CNG Kit - IMT 25",
+                    "componentNumber": "10134",
+                    "selection": false,
+                    "value": {
+                      "insuredValue": 0
+                    },
+                    "subCovers": [],
+                    "netPremium": "INR 0.00"
+                  },
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "NOT_AVAILABLE",
+                    "coverCode": "ACCESSORIES",
+                    "name": "L1 Cover",
+                    "componentNumber": "49749",
+                    "selection": false,
+                    "value": {
+                      "insuredValue": 0
+                    },
+                    "subCovers": [],
+                    "netPremium": "INR 0.00"
+                  }
+                ],
+                "netPremium": "INR 0.00"
+              },
+              {
+                "coverType": "OWN_DAMAGE",
+                "coverAvailability": "MANDATORY",
+                "coverCode": "OWN_DAMAGE",
+                "name": "Motor Own Damage",
+                "selection": true,
+                "value": {
+                  "valueType": "SUM_INSURED",
+                  "insuredValue": 518117,
+                  "minValue": 518117,
+                  "maxValue": 777176
+                },
+                "discount": {
+                  "userSpecialDiscountPercent": 0,
+                  "defaultSpecialDiscountPercent": 80,
+                  "effectiveSpecialDiscountPercent": 0,
+                  "minSpecialDiscountPercent": 0,
+                  "maxSpecialDiscountPercent": 80,
+                  "discounts": [
+                    {
+                      "discountType": "UW_DISCOUNT",
+                      "discountPercent": 80,
+                      "discountAmount": "INR 10718.80"
+                    },
+                    {
+                      "discountType": "NCB_DISCOUNT",
+                      "discountPercent": 25,
+                      "discountAmount": "INR 893.24"
+                    }
+                  ]
+                },
+                "surcharge": {
+                  "loadings": []
+                },
+                "subCovers": [
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "NOT_AVAILABLE",
+                    "name": "IMT23",
+                    "componentNumber": "47860",
+                    "selection": false,
+                    "value": {
+                      "insuredValue": 0
+                    },
+                    "subCovers": [],
+                    "netPremium": "INR 0.00"
+                  },
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "NOT_AVAILABLE",
+                    "name": "Theft and conversion Risk - IMT 43",
+                    "componentNumber": "47859",
+                    "selection": false,
+                    "value": {
+                      "insuredValue": 0
+                    },
+                    "subCovers": [],
+                    "netPremium": "INR 0.00"
+                  },
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "NOT_AVAILABLE",
+                    "name": "Is NCB Transfer Applicable?",
+                    "componentNumber": "48441",
+                    "selection": false,
+                    "value": {
+                      "insuredValue": 0
+                    },
+                    "subCovers": [],
+                    "netPremium": "INR 0.00"
+                  },
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "NOT_AVAILABLE",
+                    "name": "IMT 47 (Overturning Cover Exclusion)",
+                    "componentNumber": "47857",
+                    "selection": false,
+                    "value": {
+                      "insuredValue": 0
+                    },
+                    "subCovers": [],
+                    "netPremium": "INR 0.00"
+                  },
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "MANDATORY",
+                    "name": "Compulsary Deductible - IMT 21",
+                    "componentNumber": "47862",
+                    "selection": true,
+                    "value": {
+                      "insuredValue": 0
+                    },
+                    "subCovers": [],
+                    "netPremium": "INR 0.00"
+                  },
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "NOT_AVAILABLE",
+                    "name": "Compulsary Deductible - IMT 22",
+                    "componentNumber": "10159",
+                    "selection": false,
+                    "value": {
+                      "insuredValue": 0
+                    },
+                    "subCovers": [],
+                    "netPremium": "INR 0.00"
+                  },
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "NOT_AVAILABLE",
+                    "name": "Is Geographical Extension taken?",
+                    "componentNumber": "48764",
+                    "selection": false,
+                    "value": {
+                      "insuredValue": 0
+                    },
+                    "subCovers": [],
+                    "netPremium": "INR 0.00"
+                  },
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "NOT_AVAILABLE",
+                    "coverCode": "OWN_DAMAGE",
+                    "name": "Voluntary deductible - IMT 22A",
+                    "componentNumber": "10064",
+                    "selection": false,
+                    "value": {
+                      "insuredValue": 0
+                    },
+                    "subCovers": [],
+                    "netPremium": "INR 0.00"
+                  },
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "AVAILABLE",
+                    "coverCode": "ACCESSORIES",
+                    "name": "CNG Kit - IMT 25",
+                    "componentNumber": "10134",
+                    "selection": false,
+                    "value": {
+                      "valueType": "SUM_INSURED",
+                      "insuredValue": 15000,
+                      "minValue": 15000,
+                      "maxValue": 80000
+                    },
+                    "subCovers": [],
+                    "netPremium": "INR 0.00"
+                  },
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "NOT_AVAILABLE",
+                    "coverCode": "ACCESSORIES",
+                    "name": "Electrical Accessories - IMT 24",
+                    "componentNumber": "10132",
+                    "selection": false,
+                    "value": {
+                      "insuredValue": 0
+                    },
+                    "subCovers": [],
+                    "netPremium": "INR 0.00"
+                  },
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "AVAILABLE",
+                    "coverCode": "ACCESSORIES",
+                    "name": "Electrical Accessories - IMT 24",
+                    "componentNumber": "47800",
+                    "selection": false,
+                    "value": {
+                      "valueType": "SUM_INSURED",
+                      "insuredValue": 518,
+                      "minValue": 518,
+                      "maxValue": 103623
+                    },
+                    "subCovers": [],
+                    "netPremium": "INR 0.00"
+                  },
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "NOT_AVAILABLE",
+                    "coverCode": "ACCESSORIES",
+                    "name": "Non Electrical Accessories - IMT 24",
+                    "componentNumber": "10133",
+                    "selection": false,
+                    "value": {
+                      "insuredValue": 0
+                    },
+                    "subCovers": [],
+                    "netPremium": "INR 0.00"
+                  },
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "AVAILABLE",
+                    "coverCode": "ACCESSORIES",
+                    "name": "Non Electrical Accessories - IMT 24",
+                    "componentNumber": "47801",
+                    "selection": false,
+                    "value": {
+                      "valueType": "SUM_INSURED",
+                      "insuredValue": 518,
+                      "minValue": 518,
+                      "maxValue": 103623
+                    },
+                    "subCovers": [],
+                    "netPremium": "INR 0.00"
+                  },
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "NOT_AVAILABLE",
+                    "coverCode": "ACCESSORIES",
+                    "name": "R1 Cover",
+                    "componentNumber": "49067",
+                    "selection": false,
+                    "value": {
+                      "insuredValue": 0
+                    },
+                    "subCovers": [],
+                    "netPremium": "INR 0.00"
+                  },
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "NOT_AVAILABLE",
+                    "coverCode": "ACCESSORIES",
+                    "name": "L1 Cover",
+                    "componentNumber": "49749",
+                    "selection": false,
+                    "value": {
+                      "insuredValue": 0
+                    },
+                    "subCovers": [],
+                    "netPremium": "INR 0.00"
+                  }
+                ],
+                "netPremium": "INR 3572.95",
+                "tariffPremium": "INR 13399.00",
+                "withZeroDepNetPremium": "INR 0.00",
+                "ncbDiscountWithZeroDep": "INR 0.00",
+                "withoutZeroDepNetPremium": "INR 0.00",
+                "ncbDiscountWithoutZeroDep": "INR 0.00",
+                "plan": "PLAN_D"
+              },
+              {
+                "coverType": "ADDONS",
+                "coverAvailability": "NOT_AVAILABLE",
+                "coverCode": "ADDONS",
+                "name": "Motor Own Damage -  Add Ons",
+                "selection": false,
+                "value": {
+                  "insuredValue": 0
+                },
+                "subCovers": [
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "NOT_AVAILABLE",
+                    "coverCode": "OTHER_ADDON",
+                    "name": "Term Plan",
+                    "componentNumber": "48081",
+                    "selection": false,
+                    "value": {
+                      "insuredValue": 0
+                    },
+                    "subCovers": [],
+                    "netPremium": "INR 0.00"
+                  },
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "NOT_AVAILABLE",
+                    "coverCode": "RSA_ADDON",
+                    "name": "Road Side Assistance",
+                    "componentNumber": "",
+                    "selection": false,
+                    "value": {
+                      "insuredValue": 0
+                    },
+                    "subCovers": [],
+                    "netPremium": "INR 0.00"
+                  },
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "NOT_AVAILABLE",
+                    "coverCode": "RSA_ADDON",
+                    "name": "Breakdown Assistance",
+                    "componentNumber": "",
+                    "selection": false,
+                    "value": {
+                      "insuredValue": 0
+                    },
+                    "subCovers": [],
+                    "netPremium": "INR 0.00"
+                  },
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "NOT_AVAILABLE",
+                    "coverCode": "OTHER_ADDON",
+                    "name": "Tyre Protect",
+                    "componentNumber": "10035",
+                    "selection": false,
+                    "value": {
+                      "insuredValue": 0
+                    },
+                    "subCovers": [],
+                    "netPremium": "INR 0.00"
+                  },
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "NOT_AVAILABLE",
+                    "coverCode": "OTHER_ADDON",
+                    "name": "Parts Depreciation Protect",
+                    "componentNumber": "10031",
+                    "selection": false,
+                    "value": {
+                      "insuredValue": 0
+                    },
+                    "subCovers": [
+                      {
+                        "coverType": "Cover",
+                        "coverAvailability": "NOT_AVAILABLE",
+                        "name": "Cover only 1 claims per year",
+                        "componentNumber": "10143",
+                        "selection": false,
+                        "value": {
+                          "insuredValue": 0
+                        },
+                        "subCovers": [],
+                        "netPremium": "INR 0.00"
+                      },
+                      {
+                        "coverType": "Cover",
+                        "coverAvailability": "NOT_AVAILABLE",
+                        "name": "Cover only 2 claims per year",
+                        "componentNumber": "10144",
+                        "selection": false,
+                        "value": {
+                          "insuredValue": 0
+                        },
+                        "subCovers": [],
+                        "netPremium": "INR 0.00"
+                      },
+                      {
+                        "coverType": "Cover",
+                        "coverAvailability": "NOT_AVAILABLE",
+                        "name": "Cover Unlimited Claims",
+                        "componentNumber": "10145",
+                        "selection": false,
+                        "value": {
+                          "insuredValue": 0
+                        },
+                        "subCovers": [],
+                        "netPremium": "INR 0.00"
+                      },
+                      {
+                        "coverType": "Cover",
+                        "coverAvailability": "NOT_AVAILABLE",
+                        "name": "Cover Unlimited Claims Plus1",
+                        "componentNumber": "48163",
+                        "selection": false,
+                        "value": {
+                          "insuredValue": 0
+                        },
+                        "subCovers": [],
+                        "netPremium": "INR 0.00"
+                      },
+                      {
+                        "coverType": "Cover",
+                        "coverAvailability": "NOT_AVAILABLE",
+                        "name": "Cover Unlimited Claims Plus 2",
+                        "componentNumber": "48166",
+                        "selection": false,
+                        "value": {
+                          "insuredValue": 0
+                        },
+                        "subCovers": [],
+                        "netPremium": "INR 0.00"
+                      },
+                      {
+                        "coverType": "Cover",
+                        "coverAvailability": "NOT_AVAILABLE",
+                        "name": "Cover Unlimited Claims Plus 3",
+                        "componentNumber": "48168",
+                        "selection": false,
+                        "value": {
+                          "insuredValue": 0
+                        },
+                        "subCovers": [
+                          {
+                            "coverType": "Cover",
+                            "coverAvailability": "NOT_AVAILABLE",
+                            "name": "KP-clause",
+                            "componentNumber": "48181",
+                            "selection": false,
+                            "value": {
+                              "insuredValue": 0
+                            },
+                            "subCovers": [],
+                            "netPremium": "INR 0.00"
+                          },
+                          {
+                            "coverType": "Cover",
+                            "coverAvailability": "NOT_AVAILABLE",
+                            "name": "PL-clause",
+                            "componentNumber": "48182",
+                            "selection": false,
+                            "value": {
+                              "insuredValue": 0
+                            },
+                            "subCovers": [],
+                            "netPremium": "INR 0.00"
+                          }
+                        ],
+                        "netPremium": "INR 0.00"
+                      },
+                      {
+                        "coverType": "Cover",
+                        "coverAvailability": "NOT_AVAILABLE",
+                        "name": "Cover only 2 claims per year Plus 1",
+                        "componentNumber": "48200",
+                        "selection": false,
+                        "value": {
+                          "insuredValue": 0
+                        },
+                        "subCovers": [],
+                        "netPremium": "INR 0.00"
+                      },
+                      {
+                        "coverType": "Cover",
+                        "coverAvailability": "NOT_AVAILABLE",
+                        "name": "Cover only 2 claims per year Plus 3",
+                        "componentNumber": "48201",
+                        "selection": false,
+                        "value": {
+                          "insuredValue": 0
+                        },
+                        "subCovers": [],
+                        "netPremium": "INR 0.00"
+                      }
+                    ],
+                    "netPremium": "INR 0.00"
+                  },
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "NOT_AVAILABLE",
+                    "coverCode": "OTHER_ADDON",
+                    "name": "Consumable cover",
+                    "componentNumber": "10038",
+                    "selection": false,
+                    "value": {
+                      "insuredValue": 0
+                    },
+                    "subCovers": [],
+                    "netPremium": "INR 0.00"
+                  },
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "NOT_AVAILABLE",
+                    "coverCode": "OTHER_ADDON",
+                    "name": "Engine and Gear Box Protect",
+                    "componentNumber": "10032",
+                    "selection": false,
+                    "value": {
+                      "insuredValue": 0
+                    },
+                    "subCovers": [],
+                    "netPremium": "INR 0.00"
+                  },
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "NOT_AVAILABLE",
+                    "coverCode": "OTHER_ADDON",
+                    "name": "Return to Invoice",
+                    "componentNumber": "10034",
+                    "selection": false,
+                    "value": {
+                      "insuredValue": 0
+                    },
+                    "subCovers": [],
+                    "netPremium": "INR 0.00"
+                  },
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "NOT_AVAILABLE",
+                    "coverCode": "OTHER_ADDON",
+                    "name": "Rim Protect Cover",
+                    "componentNumber": "10036",
+                    "selection": false,
+                    "value": {
+                      "insuredValue": 0
+                    },
+                    "subCovers": [],
+                    "netPremium": "INR 0.00"
+                  },
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "NOT_AVAILABLE",
+                    "coverCode": "OTHER_ADDON",
+                    "name": "Additional Towing Expenses",
+                    "componentNumber": "49920",
+                    "selection": false,
+                    "value": {
+                      "insuredValue": 0
+                    },
+                    "subCovers": [],
+                    "netPremium": "INR 0.00"
+                  },
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "NOT_AVAILABLE",
+                    "coverCode": "OTHER_ADDON",
+                    "name": "Debris Removal Expenses",
+                    "componentNumber": "49921",
+                    "selection": false,
+                    "value": {
+                      "insuredValue": 0
+                    },
+                    "subCovers": [],
+                    "netPremium": "INR 0.00"
+                  },
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "NOT_AVAILABLE",
+                    "coverCode": "OTHER_ADDON",
+                    "name": "Personal Belonging",
+                    "componentNumber": "51463",
+                    "selection": false,
+                    "value": {
+                      "insuredValue": 0
+                    },
+                    "subCovers": [
+                      {
+                        "coverType": "Cover",
+                        "coverAvailability": "NOT_AVAILABLE",
+                        "name": "Cover only 1 claims per year",
+                        "componentNumber": "51465",
+                        "selection": false,
+                        "value": {
+                          "insuredValue": 0
+                        },
+                        "subCovers": [],
+                        "netPremium": "INR 0.00"
+                      }
+                    ],
+                    "netPremium": "INR 0.00"
+                  },
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "NOT_AVAILABLE",
+                    "coverCode": "OTHER_ADDON",
+                    "name": "Key and Lock Protect",
+                    "componentNumber": "51464",
+                    "selection": false,
+                    "value": {
+                      "insuredValue": 0
+                    },
+                    "subCovers": [
+                      {
+                        "coverType": "Cover",
+                        "coverAvailability": "NOT_AVAILABLE",
+                        "name": "Cover only 1 claims per year",
+                        "componentNumber": "51467",
+                        "selection": false,
+                        "value": {
+                          "insuredValue": 0
+                        },
+                        "subCovers": [],
+                        "netPremium": "INR 0.00"
+                      }
+                    ],
+                    "netPremium": "INR 0.00"
+                  }
+                ],
+                "netPremium": "INR 0.00"
+              },
+              {
+                "coverType": "PA_OWNER",
+                "coverAvailability": "AVAILABLE",
+                "coverCode": "PA_OWNER",
+                "name": "PA Owner Driver",
+                "selection": false,
+                "value": {
+                  "valueType": "SUM_INSURED",
+                  "insuredValue": 1500000
+                },
+                "subCovers": [
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "NOT_AVAILABLE",
+                    "coverCode": "PA_OWNER",
+                    "name": "Personal Accident",
+                    "componentNumber": "10028",
+                    "selection": false,
+                    "value": {
+                      "insuredValue": 0
+                    },
+                    "subCovers": [],
+                    "netPremium": "INR 0.00"
+                  },
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "MANDATORY",
+                    "coverCode": "PA_OWNER",
+                    "name": "Personal Accident",
+                    "componentNumber": "10174",
+                    "selection": false,
+                    "value": {
+                      "valueType": "SUM_INSURED",
+                      "insuredValue": 1500000,
+                      "validValues": [
+                        1500000
+                      ]
+                    },
+                    "subCovers": [],
+                    "netPremium": "INR 0.00"
+                  },
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "NOT_AVAILABLE",
+                    "coverCode": "PA_OWNER",
+                    "name": "Term Plan",
+                    "componentNumber": "48081",
+                    "selection": false,
+                    "value": {
+                      "valueType": "TERM_COUNT",
+                      "insuredValue": 0
+                    },
+                    "subCovers": [],
+                    "netPremium": "INR 0.00"
+                  }
+                ],
+                "netPremium": "INR 0.00"
+              },
+              {
+                "coverType": "PA_UNNAMED",
+                "coverAvailability": "AVAILABLE",
+                "coverCode": "PA_UNNAMED",
+                "name": "Unnamed PA Cover",
+                "selection": false,
+                "value": {
+                  "valueType": "SUM_INSURED",
+                  "insuredValue": 200000,
+                  "minValue": 100000,
+                  "maxValue": 200000,
+                  "validValues": [
+                    100000,
+                    200000
+                  ]
+                },
+                "subCovers": [
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "AVAILABLE",
+                    "name": "PA cover for Unnamed passenger",
+                    "componentNumber": "47715",
+                    "selection": false,
+                    "value": {
+                      "valueType": "SUM_INSURED",
+                      "insuredValue": 200000,
+                      "minValue": 100000,
+                      "maxValue": 200000,
+                      "validValues": [
+                        100000,
+                        200000
+                      ]
+                    },
+                    "subCovers": [
+                      {
+                        "coverType": "Cover",
+                        "coverAvailability": "MANDATORY",
+                        "name": "Number of Unnamed Passenger",
+                        "componentNumber": "47716",
+                        "selection": true,
+                        "value": {
+                          "valueType": "INSURED_COUNT",
+                          "insuredValue": 1,
+                          "minValue": 1,
+                          "maxValue": 1
+                        },
+                        "subCovers": [],
+                        "netPremium": "INR 0.00"
+                      }
+                    ],
+                    "netPremium": "INR 120.00"
+                  },
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "AVAILABLE",
+                    "name": "PA cover for Paid Cleaner - IMT 17",
+                    "componentNumber": "47710",
+                    "selection": false,
+                    "value": {
+                      "valueType": "SUM_INSURED",
+                      "insuredValue": 200000,
+                      "minValue": 100000,
+                      "maxValue": 200000,
+                      "validValues": [
+                        100000,
+                        200000
+                      ]
+                    },
+                    "subCovers": [
+                      {
+                        "coverType": "Cover",
+                        "coverAvailability": "MANDATORY",
+                        "name": "Number of Paid Cleaner",
+                        "componentNumber": "47712",
+                        "selection": true,
+                        "value": {
+                          "valueType": "INSURED_COUNT",
+                          "insuredValue": 1,
+                          "minValue": 1,
+                          "maxValue": 1
+                        },
+                        "subCovers": [],
+                        "netPremium": "INR 0.00"
+                      }
+                    ],
+                    "netPremium": "INR 120.00"
+                  },
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "AVAILABLE",
+                    "name": "PA cover for Paid Driver - IMT 17",
+                    "componentNumber": "47711",
+                    "selection": false,
+                    "value": {
+                      "valueType": "SUM_INSURED",
+                      "insuredValue": 200000,
+                      "minValue": 100000,
+                      "maxValue": 200000,
+                      "validValues": [
+                        100000,
+                        200000
+                      ]
+                    },
+                    "subCovers": [
+                      {
+                        "coverType": "Cover",
+                        "coverAvailability": "MANDATORY",
+                        "name": "Number of Paid Driver",
+                        "componentNumber": "47713",
+                        "selection": true,
+                        "value": {
+                          "valueType": "INSURED_COUNT",
+                          "insuredValue": 1,
+                          "minValue": 1,
+                          "maxValue": 1
+                        },
+                        "subCovers": [],
+                        "netPremium": "INR 0.00"
+                      }
+                    ],
+                    "netPremium": "INR 120.00"
+                  },
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "AVAILABLE",
+                    "name": "PA cover for Paid Conductors - IMT 17",
+                    "componentNumber": "47709",
+                    "selection": false,
+                    "value": {
+                      "valueType": "SUM_INSURED",
+                      "insuredValue": 200000,
+                      "minValue": 100000,
+                      "maxValue": 200000,
+                      "validValues": [
+                        100000,
+                        200000
+                      ]
+                    },
+                    "subCovers": [
+                      {
+                        "coverType": "Cover",
+                        "coverAvailability": "MANDATORY",
+                        "name": "Number of Paid Conductors",
+                        "componentNumber": "47714",
+                        "selection": true,
+                        "value": {
+                          "valueType": "INSURED_COUNT",
+                          "insuredValue": 1,
+                          "minValue": 1,
+                          "maxValue": 1
+                        },
+                        "subCovers": [],
+                        "netPremium": "INR 0.00"
+                      }
+                    ],
+                    "netPremium": "INR 120.00"
+                  }
+                ],
+                "netPremium": "INR 0.00"
+              },
+              {
+                "coverType": "LEGAL_LIABILITY",
+                "coverAvailability": "AVAILABLE",
+                "coverCode": "LEGAL_LIABILITY",
+                "name": "Legal Liability for Operations",
+                "selection": false,
+                "value": {
+                  "insuredValue": 0
+                },
+                "subCovers": [
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "AVAILABLE",
+                    "name": "Legal Liability to Paid Driver - IMT 28",
+                    "componentNumber": "10181",
+                    "selection": false,
+                    "value": {
+                      "valueType": "INSURED_COUNT",
+                      "insuredValue": 1,
+                      "minValue": 1,
+                      "maxValue": 2,
+                      "validValues": [
+                        1,
+                        2
+                      ]
+                    },
+                    "subCovers": [],
+                    "netPremium": "INR 50.00"
+                  },
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "AVAILABLE",
+                    "name": "Number of Cleaners",
+                    "componentNumber": "10185",
+                    "selection": false,
+                    "value": {
+                      "valueType": "INSURED_COUNT",
+                      "insuredValue": 1,
+                      "minValue": 1,
+                      "maxValue": 1,
+                      "validValues": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6
+                      ]
+                    },
+                    "subCovers": [],
+                    "netPremium": "INR 50.00"
+                  },
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "AVAILABLE",
+                    "name": "Non fare paying passengers",
+                    "componentNumber": "47707",
+                    "selection": false,
+                    "value": {
+                      "valueType": "INSURED_COUNT",
+                      "insuredValue": 1,
+                      "minValue": 1,
+                      "maxValue": 1,
+                      "validValues": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6
+                      ]
+                    },
+                    "subCovers": [],
+                    "netPremium": "INR 125.00"
+                  },
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "AVAILABLE",
+                    "name": "Number of people employed in loading/unloading/maintaining",
+                    "componentNumber": "47725",
+                    "selection": false,
+                    "value": {
+                      "valueType": "INSURED_COUNT",
+                      "insuredValue": 1,
+                      "minValue": 1,
+                      "maxValue": 5,
+                      "validValues": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5
+                      ]
+                    },
+                    "subCovers": [],
+                    "netPremium": "INR 50.00"
+                  },
+                  {
+                    "coverType": "Cover",
+                    "coverAvailability": "AVAILABLE",
+                    "name": "Number of people employed in loading/unloading/maintaining (6 to 20)",
+                    "componentNumber": "47726",
+                    "selection": false,
+                    "value": {
+                      "valueType": "INSURED_COUNT",
+                      "insuredValue": 6,
+                      "minValue": 6,
+                      "maxValue": 20,
+                      "validValues": [
+                        6,
+                        7,
+                        8,
+                        9,
+                        10,
+                        11,
+                        12,
+                        13,
+                        14,
+                        15,
+                        16,
+                        17,
+                        18,
+                        19,
+                        20
+                      ]
+                    },
+                    "subCovers": [],
+                    "netPremium": "INR 300.00"
+                  }
+                ],
+                "netPremium": "INR 0.00"
+              }
+            ],
+            "insurerVehicleId": "133162",
+            "universalSompoProposalQuotationID": null,
+            "royalSundaramQuoteId": null,
+            "royalSundaramVersionNo": null
+          },
+          "featureTags": [],
+          "isInspectionIntegrated": false,
+          "renewal": false,
+          "initial": false,
+          "offline": true,
+          "userSetPrevIdv": false
+        },
+        "showPospTag": false,
+        "renewals": false
+      },
+      {
+        "_id": "bbd7421e-aade-4d00-8e85-51b68e2283c6",
+        "uniqueId": "c548b309-082e-4b96-9828-500d58757864",
+        "requestId": "MGGPAUFPRJ7",
+        "key": "UNISOMPO",
+        "insurer": "UNISOMPO",
+        "quoteId": "8067f11ce7e52ca1a328a0dc7d713eaf",
+        "timestamp": "2021-09-29T05:07:26.146+0000",
+        "validTillTimestamp": "2021-10-04T18:29:59.999+0000",
+        "status": "SUCCESS",
+        "finalPremium": "31238",
+        "packagePremium": "26473",
+        "tax": "4765",
+        "policyType": "comprehensive",
+        "vertical": "CV",
+        "shortListId": "b414e0b63f41324df44d13d5fdecd076",
+        "motorPremiumResult": {
+          "insurerProvider": "UNISOMPO",
+          "insurerName": "UNIVERSAL SOMPO",
+          "insurerLogo": "images/universal_motor.png",
+          "isInitial": false,
+          "ownDamageMap": {
+            "Basic Premium": "20204"
+          },
+          "discountsMap": {
+            "NCB Discount to OD Premium": "-5051"
+          },
+          "liabilityPremiumMap": {
+            "Basic Third Party Liability": "11320"
+          },
+          "totalOwnDamagePremium": "0",
+          "addOnPremiumMap": {},
+          "totalLiabilityPremium": "0",
+          "packagePremium": "26473",
+          "serviceTax": "4765",
+          "finalPremium": "31238",
+          "status": "SUCCESS",
+          "errorMsg": "",
+          "idv": 585965,
+          "minIdv": 375134,
+          "maxIdv": 635876,
+          "seatingCapacity": 5,
+          "carryingCapacity": 4,
+          "grossWeight": "0",
+          "newNCB": 25,
+          "validTillTimestamp": "2021-10-04T18:29:59.999+0000",
+          "insurerTariffDiscount": "0.00",
+          "insurerAppliedDiscount": "0.00",
+          "supportedAddOn": [
+            "RSA"
+          ],
+          "manualQuote": false,
+          "cdEnabled": false,
+          "elapsedTime": 6278,
+          "cashlessGaragesStatus": 2,
+          "insTrailerIDV": 0,
+          "premiumYear": "1",
+          "c": false,
+          "rc": false,
+          "posp": false,
+          "shortListId": "b414e0b63f41324df44d13d5fdecd076",
+          "uid": "c548b309-082e-4b96-9828-500d58757864",
+          "insurerData": {
+            "unisompo_exshowroom": 725653,
+            "sompoIdv": 585965,
+            "clientCode": 20000042,
+            "posPolicyNo": 74676573,
+            "vehicleClass": "PCV",
+            "tarifRate": 0,
+            "exShowRoomPrice": 725653,
+            "insurerVehicleId": "189145",
+            "universalSompoProposalQuotationID": "74676573",
+            "royalSundaramQuoteId": null,
+            "royalSundaramVersionNo": null
+          },
+          "featureTags": [],
+          "isInspectionIntegrated": false,
+          "renewal": false,
+          "initial": false,
+          "offline": true,
+          "userSetPrevIdv": false
+        },
+        "showPospTag": false,
+        "renewals": false
+      },
+      {
+        "_id": "a585ad11-0eb7-4bff-ae51-68b929188215",
+        "uniqueId": "c548b309-082e-4b96-9828-500d58757864",
+        "requestId": "MGGPAUFPRJ7",
+        "key": "UNTD",
+        "insurer": "UNTD",
+        "quoteId": "8067f11ce7e52ca1a328a0dc7d713eaf",
+        "timestamp": "2021-09-29T05:07:30.144+0000",
+        "validTillTimestamp": "2021-10-04T18:29:59.999+0000",
+        "status": "IN_UNDERWRITING_RULES",
+        "finalPremium": "0",
+        "packagePremium": "0",
+        "tax": "0",
+        "policyType": "comprehensive",
+        "vertical": "CV",
+        "shortListId": "74561cdf2249dd786dc5b994d6ddf2c4",
+        "motorPremiumResult": {
+          "insurerProvider": "UNTD",
+          "insurerName": "United India",
+          "insurerLogo": "images/unitedindia.png",
+          "isInitial": false,
+          "ownDamageMap": {},
+          "discountsMap": {},
+          "liabilityPremiumMap": {},
+          "totalOwnDamagePremium": "0",
+          "addOnPremiumMap": {},
+          "totalLiabilityPremium": "0",
+          "packagePremium": "0",
+          "serviceTax": "0",
+          "finalPremium": "0",
+          "status": "IN_UNDERWRITING_RULES",
+          "errorMsg": "Error Coming From GetCalculatedPremium Error in Calculate: User is not authorized to underwrite C1A PCV 4 Wheeler not exceeding 6 passengers as opted Registration /Chasis /Engine number (combination or any one) belongs to A1 GCV Public Carriers other than 3 wheelers for proposal number 202007111960249. .Audit Log Transaction ID - 100001982796342.",
+          "idv": 651455,
+          "minIdv": 651455,
+          "maxIdv": 796223,
+          "seatingCapacity": 5,
+          "carryingCapacity": 4,
+          "grossWeight": "1340",
+          "validTillTimestamp": "2021-10-04T18:29:59.999+0000",
+          "insurerTariffDiscount": "70",
+          "insurerAppliedDiscount": "70",
+          "manualQuote": false,
+          "cdEnabled": false,
+          "elapsedTime": 10214,
+          "cashlessGaragesStatus": 2,
+          "insTrailerIDV": 0,
+          "premiumYear": "1",
+          "c": false,
+          "rc": false,
+          "posp": false,
+          "shortListId": "74561cdf2249dd786dc5b994d6ddf2c4",
+          "uid": "c548b309-082e-4b96-9828-500d58757864",
+          "insurerData": {
+            "referenceNumber": "",
+            "Customer_Id": "",
+            "transactionId": 0,
+            "insurerVehicleId": "174471",
+            "universalSompoProposalQuotationID": null,
+            "royalSundaramQuoteId": null,
+            "royalSundaramVersionNo": null
+          },
+          "featureTags": [],
+          "isInspectionIntegrated": false,
+          "renewal": false,
+          "initial": false,
+          "offline": true,
+          "userSetPrevIdv": false
+        },
+        "showPospTag": false,
+        "renewals": false
+      }
+    ]
+  },
+  "timestamp": "2021-09-29T05:45:33.865+0000"
+}

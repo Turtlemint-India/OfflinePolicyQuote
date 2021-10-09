@@ -1,0 +1,17 @@
+{
+  "page":1,
+  "limit":50,
+  "pageType":"ALLRECORDS",
+  "sort":[],
+  "filters":[
+    {"type":"multi-select","code":"creation_source"},
+    {"type":"multi-select","code":"channel_type"},
+    {"type":"multi-select","code":"vertical","values":["CV"]},
+    {"type":"multi-select","code":"insurer"},
+    {"type":"multi-select","code":"policy_status"},
+    {"type":"multi-select","code":"pre_sale_verification_status"},
+    {"type":"multi-select","code":"source_of_sale_status"},
+    {"type":"multi-select","code":"salesDetail.business_channel"},
+    {"type":"date-range","code":"creation_date","from":"1630434600000","to":"1632249000000"}
+  ]
+}
